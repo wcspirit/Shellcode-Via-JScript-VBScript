@@ -1,0 +1,1 @@
+# Shellcode-Via-JScript-VBScript
